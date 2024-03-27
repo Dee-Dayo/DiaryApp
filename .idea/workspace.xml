@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7de19513-5c31-4636-a469-c12755263bee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NewDiary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/data/repositories/EntryRepositoryImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2e0z2qwnHNhOD6TXoHKboM8w6I0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.DiaryControllerTest.appCanRegisterUser.executor": "Run",
+    "JUnit.DiaryControllerTest.appCantRegisterTwoUserWithSameUsername.executor": "Run",
+    "JUnit.DiaryControllerTest.executor": "Run",
+    "JUnit.DiaryControllerTest.userCanGetAllEntriesAdded.executor": "Run",
+    "JUnit.DiaryControllerTest.userCanLoginWithApp_userCanCreateEntry.executor": "Run",
+    "JUnit.DiaryControllerTest.userCanLogin_userCanLogout.executor": "Run",
+    "JUnit.DiaryControllerTest.userCantCreateEntryIfNotLoggedIn.executor": "Debug",
+    "JUnit.DiaryControllerTest.userCantCreateEntryIfNotRegistered.executor": "Run",
+    "JUnit.DiaryControllerTest.userCantLoginIfNotRegistered.executor": "Run",
+    "JUnit.DiaryControllerTest.userCantLoginWithIncorrectPassword.executor": "Run",
+    "JUnit.DiaryControllerTest.userCantLogoutAccountNotCreated.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.diaryIsCreated_cantDeleteByWrongUsernameOrIncorrectCase.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.threeDiaryCreated_canFindAll.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.twoDiarCanBeCreated.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.twoDiaryCanBeCreated.executor": "Run",
+    "JUnit.DiaryRepositoryImplTest.twoDiaryWithSameUsernameCantBeAdded.executor": "Run",
+    "JUnit.DiaryServiceImplTest.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registOneUser_userCanLoginWithCorrectDetails.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateEntry.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateEntry_userCanUpdateEntry.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateTwoEntry.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateTwoEntry_userCanFindAllEntries.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateTwoEntry_userDeleteOne.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCantCreateTwoEntryWithSameTitle.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerOneUser_userCantLoginWithinCorrectDetails.executor": "Run",
+    "JUnit.DiaryServiceImplTest.registerTwoUser_canDeleteUser.executor": "Run",
+    "JUnit.DiaryServiceImplTest.resgisterOneUser_userCanLoginCanLogout.executor": "Run",
+    "JUnit.EntryRepositoryImplTest.EntryIsCreated_canBeFound.executor": "Run",
+    "JUnit.EntryRepositoryImplTest.entryCanBeUpdated_canBeFound.executor": "Run",
+    "JUnit.EntryRepositoryImplTest.executor": "Run",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/DELL/IdeaProjects/user-application",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/DELL/IdeaProjects/NewDiary/src/Main.java",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="controllers" />
+      <recent name="services" />
+      <recent name="data.repositories" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateEntry">
+    <configuration name="DiaryControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewDiary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controllers" />
+      <option name="MAIN_CLASS_NAME" value="controllers.DiaryControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryControllerTest.userCanGetAllEntriesAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewDiary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controllers" />
+      <option name="MAIN_CLASS_NAME" value="controllers.DiaryControllerTest" />
+      <option name="METHOD_NAME" value="userCanGetAllEntriesAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryControllerTest.userCanLoginWithApp_userCanCreateEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewDiary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controllers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="controllers" />
+      <option name="MAIN_CLASS_NAME" value="controllers.DiaryControllerTest" />
+      <option name="METHOD_NAME" value="userCanLoginWithApp_userCanCreateEntry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewDiary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiaryServiceImplTest.registerOneUser_userCanCreateEntry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NewDiary" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="services" />
+      <option name="MAIN_CLASS_NAME" value="services.DiaryServiceImplTest" />
+      <option name="METHOD_NAME" value="registerOneUser_userCanCreateEntry" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.DiaryServiceImplTest.registerOneUser_userCanCreateEntry" />
+        <item itemvalue="JUnit.DiaryControllerTest" />
+        <item itemvalue="JUnit.DiaryControllerTest.userCanGetAllEntriesAdded" />
+        <item itemvalue="JUnit.DiaryServiceImplTest" />
+        <item itemvalue="JUnit.DiaryControllerTest.userCanLoginWithApp_userCanCreateEntry" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7de19513-5c31-4636-a469-c12755263bee" name="Changes" comment="" />
+      <created>1711056082468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1711056082468</updated>
+      <workItem from="1711056083397" duration="33935000" />
+      <workItem from="1711389086439" duration="821000" />
+      <workItem from="1711389979244" duration="6213000" />
+      <workItem from="1711455995895" duration="6054000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
